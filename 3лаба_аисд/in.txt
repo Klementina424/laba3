@@ -1,0 +1,6 @@
+Saint-Petersburg;Moscow;10;20
+Surgut;Saint-Petersburg;30;40
+Moscow;Surgut;50;40
+Moscow; Kaliningrad;15;15
+Saint-Petersburg;Kaliningrad;20;N/A
+Surgut;Kaliningrad;N/A;N/A

@@ -1,0 +1,4 @@
+﻿  UnitTest3.cpp
+C:\Users\79825\Desktop\Dijkstra\Dijkstra\someFunction.h(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\79825\Desktop\Dijkstra\Debug\UnitTest1.lib и объект C:\Users\79825\Desktop\Dijkstra\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\79825\Desktop\Dijkstra\Debug\UnitTest1.dll
